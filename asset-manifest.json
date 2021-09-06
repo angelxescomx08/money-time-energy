@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/money-time-energy/static/css/main.c10eb085.chunk.css",
+    "main.js": "/money-time-energy/static/js/main.df3a8d64.chunk.js",
+    "main.js.map": "/money-time-energy/static/js/main.df3a8d64.chunk.js.map",
+    "runtime-main.js": "/money-time-energy/static/js/runtime-main.13b3ae99.js",
+    "runtime-main.js.map": "/money-time-energy/static/js/runtime-main.13b3ae99.js.map",
+    "static/js/2.66c5b317.chunk.js": "/money-time-energy/static/js/2.66c5b317.chunk.js",
+    "static/js/2.66c5b317.chunk.js.map": "/money-time-energy/static/js/2.66c5b317.chunk.js.map",
+    "index.html": "/money-time-energy/index.html",
+    "static/css/main.c10eb085.chunk.css.map": "/money-time-energy/static/css/main.c10eb085.chunk.css.map",
+    "static/js/2.66c5b317.chunk.js.LICENSE.txt": "/money-time-energy/static/js/2.66c5b317.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13b3ae99.js",
+    "static/js/2.66c5b317.chunk.js",
+    "static/css/main.c10eb085.chunk.css",
+    "static/js/main.df3a8d64.chunk.js"
+  ]
+}
